@@ -6,5 +6,6 @@ Components:
   Micromate
   Sierra Wireless modem
   SPDT switch
-TODO:
+**TODO:
   Make in-house MPPT solution using Arduino. 
+**
