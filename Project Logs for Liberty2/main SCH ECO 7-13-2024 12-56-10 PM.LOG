@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=F1 NewDesignator=FUSE
+Change Component Designator: OldDesignator=J1 NewDesignator=12VDC
+Change Component Designator: OldDesignator=J2 NewDesignator=SOL_LOAD
+Change Component Designator: OldDesignator=J3 NewDesignator=USB
+Change Component Designator: OldDesignator=J4 NewDesignator=MOD
